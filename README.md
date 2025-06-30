@@ -31,8 +31,6 @@ Welcome to my GitHub profile! I'm a Full Stack Web Developer Jr passionate about
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xenon1524&layout=compact&theme=tokyonight)
 
-> Replace `yourusername` with your actual GitHub username in the image URLs above.
-
 ---
 
 ### 📫 Contact Me
@@ -40,7 +38,6 @@ Welcome to my GitHub profile! I'm a Full Stack Web Developer Jr passionate about
 I'm always open to connect, learn, and collaborate:
 
 - 📩 Email: rmtanls17@gmail.com
-- 🌐 Portfolio: [Link if available]
 - 💼 LinkedIn: [Mi LinkedIn](https://www.linkedin.com/in/gael-l%C3%B3pez-374a64368/)
 
 ---
