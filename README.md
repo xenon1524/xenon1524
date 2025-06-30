@@ -5,7 +5,7 @@
 I'm a passionate **Full Stack Web Developer in training** with hands-on experience in modern web technologies.  
 I’ve worked as a **QA Tester** at **Karbook**, a SaaS platform for auto repair shops in Mexico.
 
-Welcome to my GitHub profile! I'm a Full Stack Web Developer passionate about React, Bun.js, and modern web technologies...
+Welcome to my GitHub profile! I'm a Full Stack Web Developer Jr passionate about React, Bun.js, and modern web technologies...
 ---
 
 ### 🛠️ Tech Stack
